@@ -1,11 +1,13 @@
 END-TO-END CLOUD DEVOPS PROJECT
 
 PROJECT OVERVIEW
+
 This project demonstrates a complete end-to-end DevOps platform implementing modern DevOps practices including Infrastructure as Code, CI/CD, containerization, Kubernetes orchestration, GitOps deployment, monitoring, and zero-downtime deployments.
 The platform automates the process of building, scanning, deploying, monitoring, and managing a containerized application in the cloud.
 
 
 PROJECT WORKFLOW 
+
 Developer Push Code
         ➡︎
 GitHub Repository
